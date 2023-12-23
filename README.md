@@ -33,6 +33,6 @@ src="https://img.shields.io/github/followers/ivandrian11?logo=github&style=for-t
 <b>My GitHub Stats</b>
 
 <div>
-  <img height=250 src="https://github-readme-stats.vercel.app/api?username=ivandrian11&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivandrian11&langs_count=3&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img height=210 src="https://github-readme-stats.vercel.app/api?username=ivandrian11&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivandrian11&langs_count=3&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </div>
