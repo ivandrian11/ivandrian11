@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Technology Enthusiast
 -----------------------
 
-<a href="https://app.daily.dev/ivanadrian11"><img src="https://api.daily.dev/devcards/3ed16dbca0af466ea139a0484222a39b.png?r=srs" width="256" align="right" alt="Ivan Andrianto's Dev Card"/></a>
+<a href="https://app.daily.dev/ivanadrian11"><img src="https://github.com/ivandrian11/ivandrian11/blob/main/devcard.svg" width="256" align="right" alt="Ivan Andrianto's Dev Card"/></a>
 
 With over 2 years of coding experience, I have honed my skills in various programming languages, including Python, Javascript, Rust, etc. My professional journey began as a UX/UI Designer and Fullstack Developer, where I gained valuable insights into creating seamless user experiences. Currently, I am immersed in advancing my skills in Machine Learning and Data Science, adding a new dimension to my technical expertise.
 
